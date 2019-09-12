@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class chart extends AppCompatActivity {
+public class cart extends AppCompatActivity {
     private Button button;
 
     @Override
